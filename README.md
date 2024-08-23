@@ -10,8 +10,8 @@ Discussing topics associated with CI/CD security.
 ## Additional References
 - [Shift left explained: What it means to shift security left](https://www.wiz.io/academy/shift-left-security)
 
-- [AWS environments compromised through exposed .env files | CSO Online](https://www.csoonline.com/article/3488207/aws-environments-compromised-through-exposed-env-files.html)
-
 - [Introducing Artifact Attestations–now in public beta - The GitHub Blog](https://github.blog/news-insights/product-news/introducing-artifact-attestations-now-in-public-beta/)
+
+- [Deploy on AWS using Bitbucket Pipelines OpenID Connect](https://support.atlassian.com/bitbucket-cloud/docs/deploy-on-aws-using-bitbucket-pipelines-openid-connect/)
 
 - [Software Bill of Materials (SBOM)](https://www.cisa.gov/sbom#:~:text=A%20%E2%80%9Csoftware%20bill%20of%20materials,that%20make%20up%20software%20components.)
